@@ -1,17 +1,11 @@
-# 团队管理系统
-做互联网化的产品，模仿trello team.oscina.net teambition tower等产品
+team
+===
+
+模仿trello，结合自己的工作经验
 
 
-
-技术栈：
-1. go : mux mgo.v2 
-2. mango
-3. reactjs reflux
-4. bootstrap
-
-
-v0.1开发计划
-1. 基本框架
-2. 团队管理
-3. 项目管理
-4. 任务管理
+> 技术路线：
+> 1. nodejs
+> 2. mongodb
+> 3. express
+> 4. react + redux + bootstrap
